@@ -21,7 +21,7 @@ From the most recent survey results (2019) we will look at this non-professional
 
 1. What is the profile of the developers who are NOT professional developers today?
 2. How do job satisfaction compare for this population and overall respondents?
-3. How this population's compensation compare to the overall survey population?
+3. How this population's compensation compare to the professional developers'?
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
 
